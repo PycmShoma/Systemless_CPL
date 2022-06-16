@@ -10,6 +10,6 @@ We install the module, reboot, go to Settings> Applications> Default application
 You can also download CPL_Feed_Plugin.apk for the Google Discover Assistant through Launcher Settings or install it from the module's home directory after installing the module itself.
 Path: /data/adb/modules/CPL/CPL_Feed_Plugin.apk
 
-### Warnings!
+### !Warnings!
 - Launcher not included RecentsProvider
 - Don't kill your system Launcher
